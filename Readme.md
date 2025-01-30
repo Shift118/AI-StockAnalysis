@@ -1,7 +1,3 @@
-Here’s a **teenage-like, emoji-filled, yet professional README** for your GitHub repository. It includes credit to the original creator, instructions on how to run the code, details about the LLM used, and a spot for your `Result.png` image.
-
----
-
 # 📈 AI-Powered Stock Analysis Dashboard 🚀
 
 Welcome to my **AI-Powered Technical Stock Analysis Dashboard**! 🎉 This project was inspired by a super cool tutorial from **Deep Charts** on YouTube. I followed along, added my own flair, and now I’m sharing it with you! 🤖📊
